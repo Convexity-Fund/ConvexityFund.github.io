@@ -105,7 +105,38 @@ We believe going into the Q4 earnings call, the biggest questions investors want
 
 **Our outlook** aligns with the takeaways’ highlights: while production growth is likely to stagnate at the current level until further ramp-ups in 2024, margins are likely to remain subdued at the current level as well. H1 2024 is likely to stay demand-constrained and face margin pressures but improvements are likely in H2. Medium to long-term, its next-gen platform has the potential to reaccelerate volume and revenue growth into high double digits and supplementary cashflows from the non-automotive segments are expected to deliver a stable growth trajectory at least from FY 24-25. Tesla’s options remain one of the most robust among technology and/or automotive companies whether it is through already well-known possibilities: robotaxi, FSD licensing but also probable avenues: AI inferencing services, Optimus units, manufacturing technique services. Until further materialization toward those supplementary revenue streams, it would remain difficult to forecast or gauge end-market TAMs.
 
+In 2024, we perceive limited upside or positive developments for Tesla. Elon Musk has expressed thoughts about the progress of Dojo, emphasizing that it is currently in line with the plan to utilize NVDA. Despite being a long-term initiative with uncertain outcomes, success in Dojo holds significant potential.
+
+The anticipation for Next Gen, slated for release next year, appears less likely, as Musk has acknowledged the formidable challenges and the necessity for a manufacturing revolution. The Cyber Truck remains a source of uncertainty with the potential for increased margins and demand.
+
+Addressing Full Self-Driving (FSD), there are reservations. Elon Musk has highlighted the impressive performance of Chinese automotive companies, particularly in Europe, where they operate at a Level 3 autonomy comparable to Tesla. Regulatory constraints and restricted testing areas for robo taxis might hinder FSD advancement. Despite Tesla's dominance in data and training, concerns linger regarding Elon's vision of other automakers purchasing FSD licenses.
+
+We recognize a potential market for FSD from Chinese EV manufacturers like Xpeng, Li Auto, or Nio, which could offer competitive pricing. While their FSD capabilities may be at 80%, attractive pricing may still make them appealing to companies like BMW.
+
+From an investor perspective, factors such as the Cyber Truck or lower interest rates may salvage Tesla's prospects. New Gen, a potential game-changer, remains elusive, and achieving previous growth rates is unlikely, as indicated by the CFO. The focus on long-term challenges, rather than short-term issues like interest rates and current market conditions, is noteworthy.
+
+Tesla's demand for the Model Y and Model 3 may have plateaued, as early adopters already own these vehicles. The introduction of NextGen, expected to be more affordable, is crucial to expanding the customer base. Currently, there is a lack of immediate catalysts for growth, with Cyber Truck production anticipated to be slow.
+
+In summary, we project a relatively muted short-term outlook for Tesla in the current fiscal year. While not necessarily negative, we foresee limited upside. The key hope lies in the Cyber Truck, but its production constraints are acknowledged. News of an accelerated Next Gen process or other developments would be instrumental in generating positive momentum. Earnings are not expected to show a significant upside. Optimus Robot and NextGen, representing the next transformative phase for Tesla, appear to be on a more distant horizon, leaving the current demand largely fulfilled by the Model 3 and Model Y.
+
 Lastly, Elon casually gave out an intriguing idea of *using dormant computing power in Tesla’s fleets to run generative AI tasks*. This path has high potential, hey perhaps something is in place for *de-centralized services* (storage, compute, internet).
+
+##### Tesla's Role and the Electric Vehicle Industry in China
+In the rapidly evolving landscape of the Chinese electric vehicle (EV) industry, Tesla finds itself navigating a challenging terrain. Despite multiple price reductions, Tesla struggles to establish a clear pricing advantage, particularly when compared to some competitors, notably in the case of the Model 3. Within China, Tesla's vehicles currently operate at Level 2 autonomy for Full Self-Driving (FSD), limiting their usage to highways due to regulatory constraints. The FSD version in China is a scaled-down iteration compared to the U.S., necessitated by the Chinese government's demand for detailed FSD data before approval.
+
+Tesla's operational challenges extend to restricted access, with certain locations, such as government buildings, off-limits due to security considerations. Notably, Chinese EV companies like XPeng have not only focused on manufacturing but also replicated Tesla's entire system, encompassing features like Bluetooth car keys, Sentry Mode, parking functionalities, camera systems, and more.
+
+A standout feature of Chinese EV companies lies in their adeptness at tailoring products to the preferences of the Chinese consumer market. Interiors exude luxury comparable to brands like Mercedes-Benz, incorporating elements like reclining rear seats with massage functions in SUVs. This attention to passenger experience aligns with the prevalence of private drivers in major cities, where labor costs are low.
+
+Chinese EVs boast Level 3 autonomy, surpassing Tesla, and leverage Chinese maps perceived as more accurate than Tesla's proprietary maps. The localized nature of the EV market in China underscores consumers' inclination to support local businesses and products, with regional preferences evident in cities like Guangzhou favoring XPeng and BYD, while Shanghai residents lean towards Tesla.
+
+Tesla's customer base is strategically geared towards a younger demographic, distinguishing itself in the electric vehicle (EV) market. In contrast to other EV manufacturers, particularly in the SUV segment, where the majority of buyers tend to fall within the middle to upper age groups, Tesla's appeal resonates strongly with a younger generation.
+
+Foreseeing challenges for Tesla in the Chinese market, we advocate a strategic shift away from a focus on price cuts. Initially, consumers viewed Tesla as a brand symbolizing new and futuristic ideals, catering to the middle-upper class with products like the Cyber Truck. However, continual price reductions have altered consumer sentiment and brand perception.
+
+To maximize its potential, Tesla should redirect its focus to markets outside China, particularly in Europe and the U.S. The European market, in particular, presents an opportunity for Tesla to leverage its competitive advantage in pricing and FSD capabilities. While acknowledging that Chinese EVs may still find a niche in Europe due to their luxury design, Tesla's favorable pricing positions it as a formidable contender.
+
+In conclusion, Tesla faces intricate challenges in the Chinese EV market, requiring strategic adjustments to regain a foothold. The emphasis should be on enhancing brand perception, targeting specific markets, and capitalizing on Tesla's unique advantages rather than engaging in a price-centric approach.
 
 - Oct 19, 2023, on Q3 Earnings
 
