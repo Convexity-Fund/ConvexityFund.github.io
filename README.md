@@ -78,6 +78,35 @@ The Mediterranean fast-casual segment represents a burgeoning market, with high 
 Founded in Rockville, Maryland, CAVA has rapidly emerged as a high-growth player in the Mediterranean fast-casual landscape. Currently operating exclusively in the U.S., the company has established a significant presence in the Mid-Atlantic, Southwest & East, and Northeast regions, solidifying its status as the only at-scale Mediterranean fast-casual option. CAVA's core offering revolves around providing nutritious options through customizable pitas and bowls, aligning with the fast-casual format and meeting consumer demands for healthier dining choices. Revenue streams are diversified through physical stores, offering pick-up, drive-through, and dine-in options, as well as consumer packaged goods available in mid-to-high-end retailers, currently exclusive to Whole Foods locations. As a recently IPO-ed company in July 2023, CAVA is garnering attention on Wall Street and is anticipated to sustain double-digit revenue growth over the next five years.
 
 #### Tesla
+- Jan 24, 2024, on Q4 Earnings
+
+Tesla’s Q4 2023 earnings call was not exactly a magnificent show nor was it a disappointment, more so we consider the earnings call a rather average in its surprises or the lack thereof.
+
+We believe going into the Q4 earnings call, the biggest questions investors want to see regarding the company’s financial performance are the margins and growth, and Tesla’s performance fairly passed the mark to close up 2023 on a relatively healthy note.
+
+**Our high-level summaries and reflections:**
+
+- Q4 automotive revenue was flat YoY, surpassed by the stronger energy and storage segment’s 10% growth as well as the services and others segment’s 27% growth. For FY 23, automobiles were up 15%, energy was up 54%, and services and other revenue were up 37%.
+    - Q4 reflected lackluster demand under a high-interest rate environment, illustrating further that price cuts were necessary but not a healthy long-term strategy for the FCF
+    - FY 23 demonstrated dampened growth, which means the market would continue to, and justifiably so, price Tesla as a stable growth company for its largest revenue segment—>partially explains for valuation adjustment in LTM
+- Q4 revenue inched 3% YoY but gross profit dropped YoY and QoQ with margins at 17.6%, below 23.8% in Q4 2022 as well as Q3 23’s 17.9%. FY 23 revenue is up 19% while gross profit declined 15%, leading to gross margin shrinking significantly by 735 bps. Operating expenses also increased 22% as Tesla continued to invest in product expansion. Operating margin also shrank by 758 bps to 9.2% compared with 2022’s 16.8%.
+    - The Q4 as well as FY 23 lackluster profitability illustrate effects mentioned in investor slide decks (lower average selling price and FSD revenue recognition) but perhaps mainly result of price cuts.
+    - The operating margin showed signs of reversion, removing some market participants’ concern about Tesla’s long-term margin.
+    - Over the last four years, revenue growth from the automotive segment has declined as the overall growth component, dropping from contributing 92% of the growth to 71% from FY 2020 to 2023. Meanwhile, both energy and services continue to increase their share of contribution. Leading to 14.1% for energy and 14.8% for services as compared to 6.7% and 1.2% in FY 2020. We believe as Tesla’s fleet scales, services will continue to take a higher seat of revenue growth contribution until the next generation platform goes into production which is likely in H2 2025 or early 2026. Energy storage will also deliver robust growth based on strong demands.
+- CAPEX continues to increase, FY 23 increased 24% YoY. Likewise, cash, cash equivalents, and investments increased 31%.
+    - CAPEX increase is expected as the company continues to reinvest. Cash position is growing at a significant pace, fortifying the balance sheet but may also signify a lack of high impact, high ROI projects to take or aggressively add funding into.
+
+**The key takeaways are as follows:**
+
+1. We believe Tesla’s manufacturing capability and expertise, as Elon pointed out, is one of the strongest, counter-cyclical moats. Tesla’s team has not only demonstrated its ability to continuously achieve higher productivity and cost structure efficiency but also consistent incremental and occasional revolutionary improvements in the manufacturing process. We believe this is one of the areas not understood by some analysts to its full extent.
+2. The FSD’s capability remains years ahead of OEMs, given the recent updates will further accelerate FSD’s capabilities. This means licensing revenue is a possible supplementary revenue in the future, however, it does not seem like any negotiation is in process as per implied in Elon’s remarks “They don’t believe it is real, yet”.
+3. The next-generation platform is key for the next leg of growth. We consider this as a positive sentiment that awaits further confirmation at the official product release event. Elon mentioned the progress is “very far along” (likely a slight underestimation of the actual timeline to bring to market) and revolutionary manufacturing is “far more advanced than any others in the world by a significant margin”.
+4. Cybertruck’s demand remains robust with order backlogs.
+
+**Our outlook** aligns with the takeaways’ highlights: while production growth is likely to stagnate at the current level until further ramp-ups in 2024, margins are likely to remain subdued at the current level as well. H1 2024 is likely to stay demand-constrained and face margin pressures but improvements are likely in H2. Medium to long-term, its next-gen platform has the potential to reaccelerate volume and revenue growth into high double digits and supplementary cashflows from the non-automotive segments are expected to deliver a stable growth trajectory at least from FY 24-25. Tesla’s options remain one of the most robust among technology and/or automotive companies whether it is through already well-known possibilities: robotaxi, FSD licensing but also probable avenues: AI inferencing services, Optimus units, manufacturing technique services. Until further materialization toward those supplementary revenue streams, it would remain difficult to forecast or gauge end-market TAMs.
+
+Lastly, Elon casually gave out an intriguing idea of *using dormant computing power in Tesla’s fleets to run generative AI tasks*. This path has high potential, hey perhaps something is in place for *de-centralized services* (storage, compute, internet).
+
 - Oct 19, 2023, on Q3 Earnings
 
 Tesla is currently at a critical juncture, and this pivotal moment has significant implications for investors, the stock market, and the company's overall strategic decisions.
