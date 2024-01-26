@@ -1,8 +1,8 @@
 # ConvexityFund
-##### The dates provided indicate the meeting date or the analysis date, not the occurrence date of the events.
+#### The dates provided indicate the meeting date or the analysis date, not the occurrence date of the events.
 This diary is dedicated to chronicling our thoughts and reflections on the market and individual companies.
 
-### Market And Economy Outlook
+## Market And Economy Outlook
 
 - December 6, 2023
   
@@ -47,9 +47,9 @@ In the equity market, the SPX has rallied 24% since the November 2023 low, now o
   
 In the current macroeconomic landscape, there is a discernible shift away from overly optimistic market sentiments, particularly as we approach the year-end. While a short-term bullish trend is anticipated in the equity market for the next 2-3 months, recent market exuberance driven by expectations of the Federal Reserve halting or lowering rates is perceived as unrealistically hopeful. The persistence of inflation around 4%, coupled with heightened consumer inflation expectations, adds a layer of complexity to the economic scenario. The continual increase in shelter costs within the Consumer Price Index (CPI) due to rent escalation further contributes to the nuanced economic environment. The overall health of the U.S. economy is assessed as less robust, with a V-shaped rebound appearing unlikely, at least in the next six months. Additionally, unresolved structural issues tied to government debt present a potential instability factor for financial markets. A note of caution is sounded by the weakened state of the commodity market, prompting a prudent approach for equity investors.
 
-### Company Outlook 
+## Company Outlook 
 
-#### CAVA
+### CAVA
 
 - Nov 14, 2023, on 2023 Q3 Earnings
 
@@ -77,7 +77,7 @@ The Mediterranean fast-casual segment represents a burgeoning market, with high 
 
 Founded in Rockville, Maryland, CAVA has rapidly emerged as a high-growth player in the Mediterranean fast-casual landscape. Currently operating exclusively in the U.S., the company has established a significant presence in the Mid-Atlantic, Southwest & East, and Northeast regions, solidifying its status as the only at-scale Mediterranean fast-casual option. CAVA's core offering revolves around providing nutritious options through customizable pitas and bowls, aligning with the fast-casual format and meeting consumer demands for healthier dining choices. Revenue streams are diversified through physical stores, offering pick-up, drive-through, and dine-in options, as well as consumer packaged goods available in mid-to-high-end retailers, currently exclusive to Whole Foods locations. As a recently IPO-ed company in July 2023, CAVA is garnering attention on Wall Street and is anticipated to sustain double-digit revenue growth over the next five years.
 
-#### Tesla
+### Tesla
 - Jan 24, 2024, on Q4 Earnings
 
 Tesla’s Q4 2023 earnings call was not exactly a magnificent show nor was it a disappointment, more so we consider the earnings call a rather average in its surprises or the lack thereof.
@@ -121,7 +121,7 @@ In summary, we project a relatively muted short-term outlook for Tesla in the cu
 
 Lastly, Elon casually gave out an intriguing idea of *using dormant computing power in Tesla’s fleets to run generative AI tasks*. This path has high potential, hey perhaps something is in place for *de-centralized services* (storage, compute, internet).
 
-##### Tesla's Role and the Electric Vehicle Industry in China
+#### Tesla's Role and the Electric Vehicle Industry in China
 In the rapidly evolving landscape of the Chinese electric vehicle (EV) industry, Tesla finds itself navigating a challenging terrain. Despite multiple price reductions, Tesla struggles to establish a clear pricing advantage, particularly when compared to some competitors, notably in the case of the Model 3. Within China, Tesla's vehicles currently operate at Level 2 autonomy for Full Self-Driving (FSD), limiting their usage to highways due to regulatory constraints. The FSD version in China is a scaled-down iteration compared to the U.S., necessitated by the Chinese government's demand for detailed FSD data before approval.
 
 Tesla's operational challenges extend to restricted access, with certain locations, such as government buildings, off-limits due to security considerations. Notably, Chinese EV companies like XPeng have not only focused on manufacturing but also replicated Tesla's entire system, encompassing features like Bluetooth car keys, Sentry Mode, parking functionalities, camera systems, and more.
@@ -160,7 +160,7 @@ Additionally, the departure of key personnel like the CFO and AI director hints 
 
 In summary, Tesla, once celebrated for its extraordinary growth and innovation, is now grappling with various challenges. Its ability to maintain its operating margin, cease price drops, and find new avenues for growth will be crucial for investors and the company's stock performance. As Tesla navigates this turning point, it faces the complex task of sustaining its unique position in the EV and technology industries.
 
-#### Disney
+### Disney
 - Nov 14, 2023, on 2023 Q4 Earnings
   
 In Disney's Q4 report, a standout achievement was the addition of 7 million subscribers, coupled with a strategic price increase on streaming plans that acted as a positive catalyst, propelling the stock price by an impressive 6.9%. Notably, ESPN+ was separated into its dedicated sports subscription service, reflecting a strategic shift in segment labels for entertainment, sports, and experiences. While the summer months for parks and cruises showed modest quarter-over-quarter growth, there was a slight improvement on a year-over-year basis.
