@@ -160,6 +160,8 @@ Additionally, the departure of key personnel like the CFO and AI director hints 
 
 In summary, Tesla, once celebrated for its extraordinary growth and innovation, is now grappling with various challenges. Its ability to maintain its operating margin, cease price drops, and find new avenues for growth will be crucial for investors and the company's stock performance. As Tesla navigates this turning point, it faces the complex task of sustaining its unique position in the EV and technology industries.
 
+### Duolingo 
+
 ### Disney
 - Nov 14, 2023, on 2023 Q4 Earnings
   
@@ -189,3 +191,7 @@ The growth component of DTC, whether from subscriber increases or plan price hik
 In tandem, Disney's cruise business is witnessing a significant uplift with the launch of the new ship "Frozen," the first in over a decade. Plans to add two more ships in 2024 and an additional one in 2025 underscore a robust expansion strategy, aiming to double the fleet from four legacy ships to eight. The strategic shift to a one-way cruise ship model aims to broaden appeal and offer flexibility, evident in the remarkable 98% capacity booking for the next quarter. Cruise ship revenue has surpassed expectations, aligning with the success of their park business. Despite economic uncertainties, the cruise ship's relatively affordable prices position it as an attractive and resilient option. Disney's strong hospitality reputation, akin to their parks, reinforces the cruise experience as a unique and indispensable offering, not a mere substitute product.
 
 On the streaming front, Disney is exploring new avenues, evident in the strong demand for annual memberships for Disney parks. The consideration of diverse pricing models and loyalty programs, along with exploring an all-inclusive streaming bundle and addressing account-sharing challenges with tiered models, underscores a forward-thinking approach. However, despite a positive Q3 earnings performance and a modest stock increase, investors are eager to witness substantial growth in streaming and Direct-to-Consumer (DTC) channels. Despite minimal growth, with subscribers increasing by only 1% over the quarter, the synergy between successful parks in Shanghai and Hong Kong and the cruise business showcases the potential of a combined park and cruise offering. While international traveler volume is rising, it has yet to fully recover to 2019 levels, presenting both challenges and opportunities for Disney's global operations.
+
+### ASML
+
+### AMD
