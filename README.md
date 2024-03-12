@@ -49,6 +49,134 @@ In the current macroeconomic landscape, there is a discernible shift away from o
 
 ## Company Outlook 
 
+### Duolingo 
+- Feb 28, 2024 on 2023 Q4 Earnings
+Duolingo reporting a blowout quarter that signals strong fundamentals, strengthening our bullish conviction in Duolingo.
+
+**Q4 Highlights & Analysis:**
+
+- Total bookings of $191 mm is an increase of 51% YoY and 24% QoQ, signals robust consumer demand and engagement. It also significantly surpassed guidance from Q3 23 that ranged between $167-170 mm.
+- Subscription booking of $157.8 mm is an increase of 57% YoY and 30% QoQ, signals strong subscriber demand and retention.
+- Paid subscribers at 6.6 mm is an increase of 65% YoY and 14% QoQ, signals healthy continuation of subscriber-conversion and market penetration.
+- Daily Active Users at 26.9 mm is an 65% YoY and 11% QoQ increase, monthly active users at 88.4 mm is an 46% YoY and 6.4% QoQ. DAU now is at 30.4% of MAU as compared to Q3 when DAU is 29.1%, which demonstrates more frequent customer engagement and successful conversion of MAUs into DAUs. In addition, growth in DAU and MAU remain robust on a YoY basis at high double-digits.
+- Total Revenue at $151 mm is an increase of 45% YoY and 9.7% QoQ, which is also a surprise than guided range of $145-148 mm. This signals strong YoY growth trends likely to continue into FY 24.
+    - Subscription revenue in Q4 increased 50% YoY, In-App Purchases increased 52% YoY, Duolingo English Test increased 29% YoY, Advertising increased 21% YoY, and Other revenue increased 12%. (Other is a newly separated segment compared to prior quarters)
+    - COGS at 26.9% of revenue compared to year-ago 26.7%, which shows a slight uptick but remains healthy as the company is scaling.
+    - Gross margin at 73.1% remained flat compared to year-ago at 73.3%.
+    - R&D increased 13% YoY at 33.3% of revenue compared to 42.8% year-ago, showcasing R&D normalization and continued focus on R&D.
+    - Sales and Marketing saw minimal increase of 0.47% YoY at 12.7% of revenue compared to 18.3% year-ago.
+    - General and administrative increased 18% YoY at 24% of revenue compared to 29.6% year-ago.
+    - Operating income increased to positive and operating margin at 3.17%.
+- Positive net income of $12.1 mm signals Duolingo is now shifting from high-growth into profitable, mature-growth company.
+- 
+
+**FY 23 Highlights & Analysis:**
+
+- Total bookings at $622.2 mm and subscription bookings at $495.5 mm, which are 45% and 49% YoY increase respectively.
+- Total Revenue at $531.1 mm and net income at $16.1 mm, which are 44% YoY increase and increase into positive earnings.
+    - Subscription Revenue increased 48%, In-App Purchases increased 94%, Duolingo English Test increased 26%, Advertising increased 11%, and Other increased 9%. (Other is a newly separated segment compared to prior quarters)
+    - COGS at 26.7% of revenue compared to year-ago 26.9%, which shows a slight healthy decline.
+    - Gross margin at 73.3% remained flat compared to year-ago at 73.1%.
+    - R&D increased 29% YoY at 36.6% of revenue compared to 40.7% year-ago, showcasing R&D normalization and continued focus on R&D.
+    - Sales and Marketing saw increase of 13% YoY at 14.3% of revenue compared to 18.1% year-ago.
+    - General and administrative increased 12.1% YoY at 24.9% of revenue compared to 31.9% year-ago.
+    - Operating income remained negative and on-path of full-year positive operating income.
+    - Stock-based compensation increased 29% as company scales up and is equivalent to 17.9% of revenue, but a decline in % of revenue compared to year-ago 20%.
+
+Duolingo’s Q4 and FY 23 earnings demonstrate robust fundamentals from top to bottom-lines and strong execution. Starting with strong momentum in subscription revenue and subscriber base, Duolingo demonstrated its unique, appealing brand again and testament to the success of its viral marketing strategy that has transformed Duolingo itself beyond a language learning app & services but with strong online presence, personality, and engagement with its audience, allowing it to reach and engage broader audience base by the day. Likewise, the hefty increase in In-App purchases validated our thesis assumption as increase user base disproportionally boost those in-app purchases. Higher engagement and brand value proposition is driving the consumer’s willingness to spend even as broader global macroeconomic slows. While advertising revenue increased, we believe advertisers as well as Duolingo team may still be underestimating the reach of Duolingo’s channel and its consumer stickiness, thus we won’t be surprised this segment turns up the dial when macroeconomic situations settle in H2 24 and FY 25. Given Duolingo’s reach of education institutions, the strength of growth in Duolingo English Test demonstrates there are further room for sustainable growth that is based on one of the largest learner base of academic subjects—language. 
+
+Duolingo team also illustrated the strength of their operating leverage as noted in Q3 23 earnings, giving investor and the team to raise higher expectation and guidance. COGS as % of revenue remained stable, which indicates stabilized gross margin. R&D, Sales and Marketing, and General and administrative, however, all declined significantly as % of net revenue, showcasing healthy cost-structure optimization and operating leverage as the company scales. This is in line with our expectation on R&D expense leading the spending in foreseeable future but all expenses normalizes. In fact, the minimal growth in sales and marketing, general and administrative is a nice surprise. With operating income turned positive and Duolingo’s increasing profitability, making it truly an incredible growth play with strong values from its fundamentals.
+**Earnings Call**
+
+User growth Q1 to be closer to the mid-50s
+
+FY 24 strong top line from rapid user growth and conversion
+
+Experimenting with helping users selecting best plan for them
+
+Putting more resources into family plan (18% of subscriber base)
+
+Adjusted EBITDA margin Q2 lower than Q1, Q3=Q2, Q4 highest
+
+R&D remains growth lever to drive user acquisition
+
+Sales and marketing improve efficiency by being creative
+
+G&A continue to get operating leverage as Duolingo scales
+
+Leverage in Q3 and Q4
+
+2024 1% net dilution similar to that in 2023
+
+Analyst Questions
+
+1. Retention rate, especially for family plan?
+    1. family plan has materially higher retention and higher LTV than annual; want to shift more attention to family plan
+2. Adjusting regional pricing approach?
+    1. less around regional pricing this year
+    2. bigger overall price change will be experiment with three tiers
+    3. saw lots of demand at MAX-tier
+3. Growth and revenue lines and conversions in 2024? (seaport)
+    1. ads grew a lot slower in FY 23, expect similar growth in 24
+    2. DET still early in its journey, already 30x, typically lower than subscription growth
+    3. IAP expect to grow nicely in 24 as well; base effect might make the growth less on percentage term
+    4. throughout 23, every cohort new users have higher free-to-paid conversion, evident to adding high quality users to the platform
+4. What are you seeing that will contribute to user growth in 24?
+    1. product improvement to drive user-growth
+    2. have so much more of a TAM
+5. Opportunities to use AI?
+    1. press report is not accurate, reduced contract force that is not full-time employee due to the use of AI
+    2. two big places: use AI in content creation because the ability to generate data has accelerated, interactive features based on AI
+    3. starting to experiment speaking with one of the characters
+6. Top of funnel trends as related to the mid-50% guidance?
+    1. visibility into Q1 is solid; it is not always going to accelerate from here
+    2. there is new users and resurrected users is about equal proportion on any given day
+    3. trying to engage users more
+7. How is the management thinking about pricing?
+    1. open to price experimentation
+8. How to grow awareness and broader monetization? (Raymond James)
+    1. On Duolingo, English courses have not had very advance content, so have to take all these courses to advance level and already put the content there
+    2. See users are starting to interact with advanced contents
+    3. Content is the first step, second is solving the
+    4. English learners are different than other languages because we don’t have a pretty good idea on what they know about the subject, because English is a cultural language so each learner have different patches of knowledge
+    5. Step three is to get the word out that Duolingo is good for advanced English learners
+    6. Step four is getting the learners to subscribe
+    7. It is going to be 2024 in 2025 to see Duolingo capitalizing on this userbase
+9. Pricing trends?
+    1. Average plan price went down every quarter between 7-8% except Q4 went down 4%, expect Q1 to be 0%, will change depending on the experiment
+10. Progress on Math and Music?
+    1. very optimistic for the result so far but it is going to take time
+11. Any new ideas to create marketing strategy?
+    1. already have plans for 24
+12. Incremental margins is there any structural changes?
+    1. nothing else to read into it besides reinvestment needs
+13. How growth in terms of bookings or revenue compared with global average?
+    1. typically buckets the world into segments; Japan is growing nicely, Europe is growing nicely
+14. How much more the ceiling of growth to improve KPI with the user interface?
+    1. Going to see the app becoming more social, teaching conversations better
+    2. AB test working pace is increasing
+15. Strength on the family plan? Family plan adoption from English vs. non-English learners?
+    1. generally seeing higher penetration in wealthier country, family plan no different than other subscriptions
+16. Shape of sales and marketing expense in 24?
+    1. should be similar
+
+What is the edge? What is our fund’s edge in synthesizing our thesis?
+
+The edge of Duolingo is at its execution both on consistency of product improvements and branding to engage users in- and outside the app, crafting a wholistic learning experience. 
+
+Our edge in synthesizing the thesis on Duolingo comes from: we are the target customers for Duolingo’s education services unlike the analysts on the street who likely have low engagement with the company, we are the target audience for the Duolingo brand so we understand the popular trend and the momentum it generates, we seek alternative information on user experiences as our data points
+
+The quality of user base is critical for Duolingo, meaning the retention of users on a active user count, engagement time, user feedbacks, and community engagements, also means the target demographics and how much it is different or similar to traditional education institutions and virtue learning platforms; where is the core competencies at and how to achieve target operating margin
+
+Research, marketing, and employee retention—options, are the primary source of reinvestment to drive growth
+
+Total Bookings is a KPI that reflect partially unearned revenue due to subscription revenue is recognized ratably over the lifetime of a subscription generally from one to twelve months—>trend reflect health of learners’ commitment to Duolingo
+
+**Comparable Analysis**
+
+As evident in the high gross margin and the business model, we will include SaaS companies in the wider comparable company set. As evident in the gamification factors, we will include publicly traded gaming companies in the comp set. As evident in the high growth rates for Duolingo, it is undeniable that the market is pricing it as a growth company.
+
+
 ### CAVA
 
 - Nov 14, 2023, on 2023 Q3 Earnings
@@ -159,8 +287,6 @@ Tesla's current status is different from the earlier years when it consistently 
 Additionally, the departure of key personnel like the CFO and AI director hints at internal challenges. Tesla is showing signs of vulnerability in both its growth prospects and margins, leading to a perception that it's in a period of stagnation, lacking potential growth sectors or new opportunities.
 
 In summary, Tesla, once celebrated for its extraordinary growth and innovation, is now grappling with various challenges. Its ability to maintain its operating margin, cease price drops, and find new avenues for growth will be crucial for investors and the company's stock performance. As Tesla navigates this turning point, it faces the complex task of sustaining its unique position in the EV and technology industries.
-
-### Duolingo 
 
 ### Disney
 - Nov 14, 2023, on 2023 Q4 Earnings
